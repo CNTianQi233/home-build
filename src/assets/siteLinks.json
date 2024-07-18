@@ -1,0 +1,27 @@
+[
+  {
+    "icon": "Blog",
+    "name": "主页",
+    "link": "yakumocloud.us.kg"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.163.com/"
+  },
+  {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://nav.imsyy.top/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.imsyy.top/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.imsyy.top/"
+  }
+]
